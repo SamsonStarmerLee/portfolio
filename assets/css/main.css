@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #235a4a !important;
 			text-decoration: none;
 		}
 
@@ -152,6 +152,7 @@ input, select, textarea {
 	}
 
 	h2 {
+		color: #235a4a;
 		font-size: 1.5em;
 		line-height: 1.5em;
 	}
@@ -2563,11 +2564,13 @@ input, select, textarea {
 
 		.work-item h3 {
 			font-size: 1em;
+			color: rgba(0, 0, 0, 1.0);
 			margin: 0 0 0.5em 0;
 		}
 
 		.work-item p {
 			font-size: 0.8em;
+			color: rgba(0, 0, 0, 0.8);
 			line-height: 1.5em;
 			margin: 0;
 		}
